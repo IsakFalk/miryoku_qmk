@@ -9,4 +9,3 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       keyboard: '["crkbd"]'
-      rules: 'BOOTLOADER = rp2040'
